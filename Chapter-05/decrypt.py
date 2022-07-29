@@ -1,5 +1,3 @@
-with open('output.txt', 'w') as myFile:
-    myFile.write('hello world!')
 
 import socketserver
 
