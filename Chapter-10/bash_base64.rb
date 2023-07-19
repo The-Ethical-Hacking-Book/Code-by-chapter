@@ -18,3 +18,4 @@ class MetasploitModule < Msf::Encoder
         return cmd
     end
     
+end
