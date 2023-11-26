@@ -1,6 +1,6 @@
-include <studio.h>
+#include <stdio.h>
 
-void checkPass(init x) {
+void checkPass(int x) {
     if(x == 7857){
         printf("Access Granted");
     }else{
