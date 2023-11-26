@@ -4,7 +4,7 @@ void checkPass(int x) {
     if(x == 7857){
         printf("Access Granted");
     }else{
-        printf("Access Denied")
+        printf("Access Denied");
     }
 }
 
